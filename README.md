@@ -4,6 +4,23 @@
 Hi there 👋   
 i'm Saketh Kowtha UI Dev at Thoughtworks.I am a Computer jock, Programmer, Technology enthusiast, Blogger and Math ❤️ er.
 
+## Experienced in
+* Reactjs
+* Nodejs
+* Express
+* Nextjs
+* Gatsby
+* React-redux
+* Javascript
+* Jquery
+* Ramdajs
+* Python
+* Dart
+* Mongodb
+* Docker
+* K8
+* Jest
+
 ## I'm Interested in
 * Lambda Calculus and Discrete Mathematics
 * Algorithms
