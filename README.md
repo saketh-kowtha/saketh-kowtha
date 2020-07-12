@@ -1,14 +1,14 @@
 ![counter](https://enpdssa63lla9g7.m.pipedream.net)
-#### Saketh Kowtha--@saketh-kowtha
+### Saketh Kowtha--@saketh-kowtha
 ----------------
 Hi there 👋 i'm Saketh Kowtha UI Dev at Thoughtworks.I am a Computer jock, Programmer, Technology enthusiast, Blogger and Math ❤️ er.
 
-#### Things I find amusing
+### Things I find amusing
 - Learning New Technologies and Programming languages.
 - Browsing open source projects.
 - Surfing the Web.
 ----------------
-#### 📫 How to reach me
+#### 📫  How to reach me
 ----------------
 * Twitter: https://twitter.com/saketh_kowtha
 * Personal site: http://kowthasaketh.com
