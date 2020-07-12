@@ -1,8 +1,9 @@
 ![counter](https://enpdssa63lla9g7.m.pipedream.net)
-### Saketh Kowtha-@saketh-kowtha
-Hi there 👋 i'm Saketh Kowtha UI Dev at Thoughtworks.I am a Computer jock, Programmer, Technology enthusiast, Blogger and Math ❤️ er.
+# Saketh Kowtha-@saketh-kowtha
+Hi there 👋   
+i'm Saketh Kowtha UI Dev at Thoughtworks.I am a Computer jock, Programmer, Technology enthusiast, Blogger and Math ❤️ er.
 
-#### I'm Interested in
+## I'm Interested in
 * Lambda Calculus and Discrete Mathematics
 * Algorithms
 * Functional programming
@@ -11,13 +12,14 @@ Hi there 👋 i'm Saketh Kowtha UI Dev at Thoughtworks.I am a Computer jock, Pro
 * Python
 * K8s
 
-#### Things I find amusing
+## Things I find amusing
+
 - Learning New Technologies and Programming languages.
 - Browsing open source projects.
 - Surfing the Web.
 
-#### How to reach me
-----------------
+## How to reach me
+
 * Twitter: https://twitter.com/saketh_kowtha
 * Personal site: http://kowthasaketh.com
 * LinkedIn: https://www.linkedin.com/in/saketh-kowtha/
