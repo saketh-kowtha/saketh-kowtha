@@ -38,7 +38,7 @@ i'm Saketh Kowtha UI Dev at Thoughtworks.I am a Computer jock, Programmer, Techn
 
 ## How to reach me
 
-* Twitter: https://twitter.com/saketh_kowtha
+* Twitter: https://twitter.com/sakethkowtha
 * Personal site: http://kowthasaketh.com
 * LinkedIn: https://www.linkedin.com/in/saketh-kowtha/
 * DevTo: https://dev.to/sakethkowtha
